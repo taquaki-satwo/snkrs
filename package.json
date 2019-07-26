@@ -11,14 +11,14 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "dotenv": "^8.0.0",
     "eslint": "^5.15.1",
     "eslint-config-airbnb-base": "^13.1.0",
-    "eslint-plugin-import": "^2.16.0",
-    "moment": "^2.24.0"
+    "eslint-plugin-import": "^2.16.0"
   },
   "dependencies": {
     "npm": "^6.10.2",
-    "puppeteer": "^1.13.0"
+    "puppeteer": "^1.13.0",
+    "dotenv": "^8.0.0",
+    "moment": "^2.24.0"
   }
 }
